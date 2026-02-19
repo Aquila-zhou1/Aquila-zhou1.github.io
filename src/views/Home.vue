@@ -147,11 +147,11 @@
                 <div class="project-tag">Industrial ML in Production</div>
               </div>
               <p class="project-desc">
-                Engaged with <strong>Industrial IoT</strong> scenarios,
-                developing, testing, and analyzing data science models such as
-                predictive maintenance and failure analysis. Supported
-                data-driven decisions for optimizing asset efficiency and
-                reliability in industrial environments.
+                Worked on <strong>AI-assisted aircraft engine inspection systems</strong> for crack and dent detection. 
+                Supported model maintenance, data analysis, and performance monitoring using industrial data. 
+                Collaborated with engineers and data scientists to troubleshoot production Ml pipelines 
+                and understand deployment constraints in safety-critical environments, 
+                gaining hands-on experience with applied machine learning in real-world industrial settings.
               </p>
             </li>
 

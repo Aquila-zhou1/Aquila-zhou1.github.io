@@ -18,9 +18,9 @@
 
     <div class="profile-image">
       <img :src="photoSrc" 
-      :alt="name" 
+           :alt="name" 
       @error="(e) => console.log('当前尝试加载的实际值是: ' + photoSrc)"
-      class="profile-photo" />
+           class="profile-photo" />
     </div>
   </section>
 </template>
@@ -47,7 +47,8 @@ const props = defineProps<{
 
 .profile-image {
   flex: 1;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .profile-photo {
@@ -80,6 +81,11 @@ const props = defineProps<{
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column-reverse;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .profile-info {
     text-align: center;
   }
 }
