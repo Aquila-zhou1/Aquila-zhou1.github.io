@@ -6,7 +6,7 @@
     <main class="main-container">
       <ProfileHeader
         name="Martin Zhou"
-        title="Undergraduate Student"
+        title="Senior AI Student & Software Engineer"
         photo-src="/assets/figs/zty.jpg"
       />
 
@@ -15,7 +15,10 @@
         <div class="card">
           <p style="text-align: justify">
             I am an undergraduate student in
-            <strong>Intelligent Software and Engineering</strong> at
+            <a href="https://ise.nju.edu.cn/en/index.htm" target="_blank">
+            Intelligent Software and Engineering
+            </a>
+            at
             <a href="https://www.nju.edu.cn/" target="_blank"
               >Nanjing University</a
             >, with a strong interest in
@@ -80,7 +83,7 @@
       </Section>
 
       <!-- News (简要，用 card 列表风格) -->
-      <Section id="news" title="News">
+      <Section id="news" title="Recent Updates">
         <div class="card">
           <ul class="news-list">
             <li>

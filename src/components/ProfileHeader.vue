@@ -13,10 +13,6 @@
         </a><br /><br />
         Email:
         <a href="mailto:liwenbin@nju.edu.cn">tyzhou@smail.nju.edu.cn</a>
-        <br /><br />
-        <span class="social-links">
-          <a class="social-link" href="https://github.com/Aquila-zhou1" target="_blank">GitHub</a>
-        </span>
       </p>
     </div>
 
