@@ -182,12 +182,12 @@
             <!-- DDCPS project -->
             <li class="pub-item">
               <a href="https://github.com/ZhizhengFu/DDCPS" target="_blank">
-                DDCPS: Drift Diffusion Model for Chess Player Skill Evaluation
+                Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System
               </a>
               <span class="spacer"></span>
-              <span class="authors"> <strong>Project Lead</strong> </span><br />
+              <span class="authors"> <strong>Project Lead & First Author</strong> </span><br />
               <span class="venue">
-                Target submission: IEEE Conference on Games (CIG). </span
+                Submitted to IEEE CoG 2026. </span
               ><br />
               <div class="buttons">
                 <a
@@ -199,12 +199,14 @@
                 </a>
               </div>
               <p class="project-desc">
-                Led a study applying
-                <strong>Drift–Diffusion Models (DDM)</strong> to chess skill
-                assessment. Demonstrated that by tracking move quality
-                (Centipawn Loss, CPL) across 20–30 games, the method can provide
-                faster and more stable estimates than traditional Elo rating in
-                early stages.
+                Developed <strong>DD-Elo</strong>, a brain-inspired AI model that 
+                integrates <strong>Drift-Diffusion Model</strong> (DDM) to enhance traditional Elo 
+                rating. By incorporating move-level granular quality, DD-Elo 
+                achieves a <strong>90% improvement</strong> in convergence (rapid adaptation) 
+                while maintaining <strong>backward compatibility</strong>. We provide a 
+                rigorous proof that DDM is the <strong>theoretical optimal model</strong> for 
+                mapping move-level data to game-level ratings, offering a 
+                highly responsive solution for chess ecosystems.
               </p>
             </li>
 
