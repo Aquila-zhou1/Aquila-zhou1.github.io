@@ -4,23 +4,21 @@
     <div class="footer-content">
       <p>&copy; 2025 Tianyuan Zhou | <em>Last update: Feb. 2026</em></p>
     </div>
-    <div class="visitor-map-wrapper">
-      <a
-        href="https://mapmyvisitors.com/web/1c30d"
-        title="Visit tracker"
-        target="_blank"
-      >
-        <img
-          class="visitor-map-img"
-          src="https://mapmyvisitors.com/map.png?d=pd9i878wd5hSvDEbYzOxFOA_A08c-cdrBe1NccL-_ys&cl=ffffff&h=320"
-          alt="Visitor map"
-        />
-      </a>
-    </div>
+    <div ref="mapRef"></div>
   </footer>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { ref, onMounted } from 'vue'
+const mapRef = ref<HTMLElement | null>(null)
+onMounted(() => {
+  const script = document.createElement('script')
+  script.type="text/javascript"
+  script.id="mapmyvisitors"
+  script.src = 'https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=z1bI_cN485kRPddZxhqxky3xLs9gyF6rlTjRLx-qil4'
+  mapRef.value?.appendChild(script)
+})
+</script>
 
 <style scoped>
 .footer {

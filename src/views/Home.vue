@@ -196,6 +196,20 @@
                   target="_blank"
                 >
                   Code
+                </a>                
+                <a
+                  class="button button4"
+                  href="https://arxiv.org/abs/2606.26267" 
+                  target="_blank"
+                >
+                  Arxiv
+                </a>
+                <a
+                  class="button button4"
+                  href="https://arxiv.org/pdf/2606.26267" 
+                  target="_blank"
+                >
+                  PDF
                 </a>
               </div>
               <p class="project-desc">
