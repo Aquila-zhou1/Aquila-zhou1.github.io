@@ -6,7 +6,7 @@
     <main class="main-container">
       <ProfileHeader
         name="Martin Zhou"
-        title="Senior AI Student & Software Engineer"
+        title="M.S. Student in Computer Science | AI Researcher"
         photo-src="/assets/figs/zty.jpg"
       />
 

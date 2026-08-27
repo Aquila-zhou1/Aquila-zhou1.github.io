@@ -5,14 +5,14 @@
       <h1>{{ name }}</h1>
       <h3>{{ title }}</h3>
       <p>
-        <a href="https://ise.nju.edu.cn/en/index.htm" target="_blank">
-          School of Intelligent Software and Engineering
+        <a href="https://www.cs.usc.edu/" target="_blank" rel="noopener">
+          Thomas Lord Department of Computer Science
         </a><br />
-        <a href="http://www.nju.edu.cn/" target="_blank">
-          Nanjing University, Suzhou Campus, China
+        <a href="https://www.usc.edu/" target="_blank" rel="noopener">
+          University of Southern California, Los Angeles, CA
         </a><br /><br />
         Email:
-        <a href="mailto:liwenbin@nju.edu.cn">tyzhou@smail.nju.edu.cn</a>
+        <a href="mailto:mzhou@usc.edu">mzhou@usc.edu</a>
       </p>
     </div>
 
