@@ -14,12 +14,12 @@
       <Section id="summary" title="Summary">
         <div class="card">
           <p style="text-align: justify">
-            I am an undergraduate student in
+            I hold a bachelor degree in
             <a href="https://ise.nju.edu.cn/en/index.htm" target="_blank">
             Intelligent Software and Engineering
             </a>
             at
-            <a href="https://www.nju.edu.cn/" target="_blank"
+            <a href="https://www.nju.edu.cn/en/" target="_blank"
               >Nanjing University</a
             >, with a strong interest in
             <strong>Artificial Intelligence</strong> and
@@ -43,7 +43,7 @@
                   <strong>Nanjing University</strong>,
                   <span>Nanjing / Suzhou, China</span>
                 </div>
-                <div class="edu-time">Sept. 2022 – Present</div>
+                <div class="edu-time">Sept. 2022 – Jul. 2026</div>
               </div>
               <div class="edu-body">
                 <div>
@@ -87,22 +87,36 @@
         <div class="card">
           <ul class="news-list">
             <li>
-              <span class="news-date">2025:</span>
-              Preparing graduate applications and strengthening research
-              experience in
-              <strong>Machine Learning</strong>, <strong>LLMs</strong>, and
-              <strong>AI systems</strong>.
+              <span class="news-date">2026:</span>
+              Developing theory-guided <strong>diffusion methods</strong> for
+              non-blind image super-resolution, with a focus on
+              polyphase-balanced data fidelity.
             </li>
+
             <li>
-              <span class="news-date">2024–2025:</span>
-              Participated in COMAP Mathematical Contest in Modeling (MCM/ICM)
-              as
-              <strong>Successful Participant (S Prize)</strong>.
+              <span class="news-date">2026:</span>
+              Started the M.S. in Computer Science program at <strong>University of Southern California</strong>.
             </li>
+
+            <li>
+              <span class="news-date">2026:</span>
+              First-author paper
+              <a href="https://arxiv.org/abs/2606.26267" target="_blank" rel="noopener">
+                A Drift-Diffusion-Enhanced Elo Rating System
+              </a>
+              accepted at the IEEE Conference on Games (CoG) 2026 as an
+              Oral Presentation.
+            </li>
+
             <li>
               <span class="news-date">2024:</span>
               Awarded the <strong>People's Scholarship</strong> at Nanjing
               University for excellent academic performance.
+            </li>
+            <li>
+              <span class="news-date">2023–2024:</span>
+              Participated in COMAP Mathematical Contest in Modeling (MCM/ICM)
+              as Successful Participant.
             </li>
           </ul>
         </div>
@@ -187,12 +201,12 @@
               <span class="spacer"></span>
               <span class="authors"> <strong>Project Lead & First Author</strong> </span><br />
               <span class="venue">
-                Submitted to IEEE CoG 2026. </span
+                Accepted at IEEE Conference on Games (CoG) 2026. </span
               ><br />
               <div class="buttons">
                 <a
                   class="button button4"
-                  href="https://github.com/ZhizhengFu/DDCPS"
+                  href="https://github.com/Aquila-zhou1/DD-Elo"
                   target="_blank"
                 >
                   Code
