@@ -2,7 +2,7 @@
 <template>
   <footer class="footer">
     <div class="footer-content">
-      <p>&copy; 2025 Tianyuan Zhou | <em>Last update: Feb. 2026</em></p>
+      <p>&copy; 2026 Martin Tianyuan Zhou | <em>Last update: Aug. 2026</em></p>
     </div>
     <div ref="mapRef"></div>
   </footer>
