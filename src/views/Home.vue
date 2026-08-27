@@ -195,7 +195,7 @@
           <ol class="pub-list">
             <!-- DDCPS project -->
             <li class="pub-item">
-              <a href="https://github.com/ZhizhengFu/DDCPS" target="_blank">
+              <a href="https://github.com/Aquila-zhou1/DD-Elo" target="_blank">
                 Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System
               </a>
               <span class="spacer"></span>
